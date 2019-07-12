@@ -125,16 +125,36 @@ header nav a{
     justify-content: space-evenly;
 }
 
-.middle-content .boxes .box {
+.box1{
     width: 12.5%;
-    height: 100px;
-    background: black;
+    height: 100px; 
+    background: teal;
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
 }
+
+.box2{
+    width: 12.5%;
+    height: 100px; 
+    background:gold;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box3{ width: 12.5%;
+    height: 100px; 
+    background: cadetblue;
+    margin: 20px 2.5%;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;}
 
 .bottom-content {
     display: flex;
