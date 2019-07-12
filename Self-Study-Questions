@@ -1,9 +1,16 @@
 1.If you were to describe semantic HTML to the next cohort of students, what would you say?
+Semantic HTML allows you to communicate with the page. (ie. allows you to click links on pages/buttons etc.)
 
 2.Name two big differences between display: block; and display: inline;.
+Two big differences between display:block and display:inline are that display:block elements do not sit inline
+while display:inline does.
 
 3.What are the 4 areas of the box model?
+margin, border, padding, content
 
 4.While using flexbox, what axis does the following property work on: align-items: center?
+cross-axis
 
 5.Explain why git is valuable to a team of developers.
+Git allows different branches to be made and merged after, allowing developers to work on the same 
+project at the same time
